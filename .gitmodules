@@ -1,0 +1,3 @@
+[submodule "slug-sbt-intro"]
+	path = slug-sbt-intro
+	url = https://github.com/thebignet/slug-sbt-intro.git
